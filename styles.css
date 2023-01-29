@@ -73,6 +73,14 @@ bottom: 400px;
     margin: auto;
 }
 
+.touchofcolours{
+    text-decoration: none;
+}
+
+.touchofcolours:hover{
+    color: #66BFBF;
+}
+
 .skills{
     margin: 50px auto 20px auto;
 }
@@ -94,6 +102,32 @@ bottom: 400px;
     width: 20%;
     float: right;
     margin-left: 30px;
+}
+
+.education{
+    margin: 50px auto 20px auto;
+}
+
+.education-row{
+    width: 70%;
+    margin: 3% auto 10% auto;
+    text-align: justify;
+}
+
+.udemy{
+    width: 15%;
+    float: left;
+    margin-right: 30px;
+}
+
+.experience{
+    margin: 50px auto 20px auto; 
+}
+
+.experience-row{
+    width: 70%;
+    margin: 3% auto 10% auto;
+    text-align: center;
 }
 
 .contact-message {
